@@ -4,19 +4,32 @@
 ---
 
 ## Part 1: Imaging Technique Inspiration  
-I am inspired by the stylised cinematic aesthetics in *Sakuran* (goldfish movement), *La La Land* (twilight cityscape), *In the Mood for Love* (warm intimate tones), and *The Grand Budapest Hotel* (geometric colour palettes). I want to incorporate their controlled colour harmony, atmospheric lighting, and rhythmic composition into my project. These techniques help create emotional depth and visual coherence, aligning with the assignment’s focus on expressive imaging and aesthetic experimentation.
+I am inspired by the opening sequence of *Sakuran* (2006), especially the stylised goldfish imagery. 
+
+The film uses:
+ - saturated colours, 
+ - fluid motion, 
+ - theatrical composition 
+ 
+ to create a dreamlike, ornamental atmosphere. 
+
+I want to incorporate its controlled colour harmony and organic movement into my project, particularly the way goldfish glide through shifting gradients. This technique supports expressive visual storytelling and aligns with the assignment’s focus on aesthetic experimentation.
+
+
 
 **Images:**  
-![SakuranGoldfish](http://127.0.0.1:5500/image/Sakuran_image01_2006.jpg)
-![SakuranGoldfish](http://127.0.0.1:5500/image/Sakuran_image02_2006.jpg)
-![LaLaLandTwilight](http://127.0.0.1:5500/image/LaLaLand_2016.jpg)
+![SakuranGoldfish](image\Sakuran_image01_2006.jpg)
+
+![SakuranGoldfish](image\Sakuran_image02_2006.jpg)
+
+
 ---
 
 ## Part 2: Coding Technique Exploration  
 I explored the technique of Perlin Noise motion combined with alpha crossfade in p5.js. Perlin Noise creates natural, organic movement suitable for simulating the fluid swimming of goldfish, similar to the opening sequence of *Sakuran*. Alpha crossfade enables smooth dissolve transitions between two moving scenes, allowing one goldfish to fade into another. Together, these techniques can recreate the flowing, dreamlike visual rhythm seen in the film.
 
 **Example screenshot:**  
-![NoiseWave](http://127.0.0.1:5500/image/ScreenShot_NoiseWave.png)
+![NoiseWave](image\ScreenShot_NoiseWave.png)
 
 **Example code links:**  
 - [Noise Wave](https://archive.p5js.org/examples/math-noise-wave.html)
